@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the great and entire victory obtained by their Majesties forces in Ireland, under the command of Lieu. Gen. Ginckle, on Sunday July 12. 1691. Published by authority.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28863</idno><idno type="EEBO-CITATION">99883238</idno>
+  <idno type="VID">188619</idno>
+  <idno type="EEBO-PROQUEST">2248520511</idno>
+  
+            <idno type="STC">Wing R833</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.17[81]</idno>
+            <idno type="STC">ESTC R200653</idno>
+            <idno type="PROQUEST">ocm99883238</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883238e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 188619)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C11:2[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the great and entire victory obtained by their Majesties forces in Ireland, under the command of Lieu. Gen. Ginckle, on Sunday July 12. 1691. Published by authority.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edw. Jones in the Savoy,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Renee Mayes</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="relation">
+            <pb n="1" facs="tcp:188619:1"/>
+            <head>A Relation of the Great and Entire Victory obtained by their Majesties Forces in <hi>Ireland,</hi> under the Com<g ref="char:EOLhyphen"/>mand of Lieut. Gen. <hi>Ginckle,</hi> on Sunday, <hi>July</hi> 12. 1691.</head>
+            <head>Published by Authority.</head>
+            <p>THE great Convoy of Provisions be<g ref="char:EOLhyphen"/>ing arrived in the Camp from <hi>Dub<g ref="char:EOLhyphen"/>lin,</hi> under the Guard of the Earl of <hi>Portland</hi>'s Regiment of Horse; the whole Army passed the <hi>Shannon</hi> on the 12th of <hi>July,</hi> about 11 in the morning, the Horse by two Fords, and the Foot and Artillery over the Bridge of <hi>Athlone;</hi> some of the Enemies Squadrons shewed themselves on the Hills, but we quickly drove them from thence with two Squadrons of Horse and two of Dragoons; and having afterwards viewed the Enemies Camp, and the Ground which we might possess our selves of be<g ref="char:EOLhyphen"/>tween two Bogs, we found that half our Army could not encamp there, which obliged us to begin our Camp on the Right, in order to extend it as far as we were able on the Left. But the Enemy having possessed themselves of a Pass on the Left in the middle of a Bog, it was thought necessary to force them from thence; the Regiment of Blue Dragoons, a Squadron of the Dragoons of <hi>Cunningham,</hi> and the Regiment of my Lord <hi>Portland,</hi> were detached for this Service. The Enemy seeing them advance, and that but a small part of our Army was yet come up, sent some Foot and Horse through the Bog; upon which the Blue Dragoons dismounted, and re<g ref="char:EOLhyphen"/>pulsed them. The Enemy detached divers Batta<g ref="char:EOLhyphen"/>l<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o s and Squadrons to support their men; and the Prince of <hi>Wirtemberg,</hi> with two of his Battalions, came very opportunely to the Assistance of ours, and gave time to the rest of the Troops of his Wing to come up: This obliged the Enemy to retrie to their main Body, who were posted on a great Hill, surrounded almost on all sides with Bog<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and having a Castle on their Left; It was resolved to attack them there; In order whereunto, our Foot passed through a Bog, many of them up to the middle, and receiving the Fire from three of the Enemies Retrenchments, and our Horse, notwithstanding their continual Fire, having passed the Defile; the two Armies, about 6 in the eve<g ref="char:EOLhyphen"/>ning, were entirely engaged, at a place called <hi>Ayhram</hi> near <hi>Ballinasloe;</hi> the Fight was very sharp, and lasted about 3 hours, our men being obliged to attack them from Trench to Trench, which they had thrown up for their greater Security; the Irish were never known to Fight with more Resolution, especially their Foot; their Army was Superiour to us in number, consisting of 20000 Foot, and 8000 Horse and Dragoons, and had all the Advantage ima<g ref="char:EOLhyphen"/>ginable, by she situation of the Ground; but it pleased GOD to bless Their Majesties Forces with an entire Victory, their whole Body being broke and dispersed; of the Enemy, there are above 5000 killed upon the place, of which number are the Lord <hi>Galmoy,</hi> Colonel <hi>Moor,</hi> with many others; and as some Deserters report, their French General <hi>St. Ruth.</hi> Major-General <hi>Hamilton,</hi> Colonel <hi>Doring<g ref="char:EOLhyphen"/>ton,</hi> Lord <hi>Slane,</hi> Lord <hi>Bedlow,</hi> Colonel <hi>Butler,</hi> Co<g ref="char:EOLhyphen"/>lonel <hi>Bourke,</hi> Colonel <hi>Gordon,</hi> Colonel <hi>O Neile,</hi> and divers other Persons of Note, are Prisoners; and had it not been for the coming on of the Night, all their Foot would have been cut off. We took all the Enemies Baggage, Tents, Provisions, and Can<g ref="char:EOLhyphen"/>non, which latter consisted only of 9 pieces. On our side we lost about 500 men; Major-General <hi>Holstaple,</hi> and Colonel <hi>Herbert,</hi> are killed; the Prince of <hi>Hesse</hi> and the Lord <hi>Cutts</hi> wounded. The Bravery and Courage of our Men in this oc<g ref="char:EOLhyphen"/>casion exceeded all the Account that can be given of them, and the Vigor and Conduct of the Gene<g ref="char:EOLhyphen"/>ral Officers contributed extreamly to this great and glorious Victory.</p>
+            <p>The General has sent a Detachement to attack <hi>Portumny,</hi> where the Enemy have a great Magazine of Provisions.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by <hi>Edw. Jones</hi> in the <hi>Savoy,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
